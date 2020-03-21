@@ -6,12 +6,18 @@
     width: 33.333% !important;
   }
 }
+
 @media (min-width: 767px) and (max-width: 1022px) {
   .ex1 img:nth-child(2){
   transform: translate(295%, -170%) !important;
 }
   .mid {
     margin: 2rem 0 !important; 
+  }
+}
+@media (min-width: 319px )and( max-width:  767px) {
+  .logo {
+    flex-direction: column;
   }
 }
 @media (min-width: 1023px) {
