@@ -18,6 +18,9 @@
   .logo {
     flex-direction: column;
   }
+  .small {
+    font-size: 25px;
+  }
 }
 @media (min-width: 1023px) {
   .ex1 img:nth-child(2) {
@@ -27,6 +30,9 @@
 @media (min-width:320px) and (max-width: 415px){ 
   .row {
     flex-direction: column;
+  }
+    .small {
+    font-size: 25px;
   }
     .logo {
     flex-direction: column !important;
