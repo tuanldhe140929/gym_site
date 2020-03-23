@@ -6,7 +6,6 @@
     width: 33.333% !important;
   }
 }
-
 @media (min-width: 767px) and (max-width: 1022px) {
   .ex1 img:nth-child(2){
   transform: translate(295%, -170%) !important;
@@ -403,5 +402,8 @@ button:hover{
   .noigi1 {
     width: 90%;
     margin: 1rem auto;
+  }
+  .logo {
+    flex-direction: column;
   }
 }
