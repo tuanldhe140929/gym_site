@@ -28,6 +28,9 @@
   .row {
     flex-direction: column;
   }
+    .logo {
+    flex-direction: column !important;
+  }
   .col1 ,.col2 ,.col3{
     width: 100% !important;
   }
@@ -50,6 +53,9 @@
 @media (max-width:360px){
   .search{
     width: 100% !important;
+  }
+    .logo {
+    flex-direction: column !important;
   }
 }
 }
@@ -129,6 +135,9 @@ nav img {
 @media (max-width: 865px) {
   .container-nav {
     flex-direction: column;
+  }
+    .logo {
+    flex-direction: column !important;
   }
   h1 {
     margin: auto;
@@ -238,6 +247,9 @@ width: 260px;
   .col1 p:nth-child(1){
     display: contents;
   }
+    .logo {
+    flex-direction: column !important;
+  }
 }
 /*footer*/
 .mid {
@@ -303,6 +315,9 @@ button:hover{
   margin: auto;
 
 }
+    .logo {
+    flex-direction: column !important;
+  }
 .prices {
   margin: auto;
 }
@@ -404,6 +419,6 @@ button:hover{
     margin: 1rem auto;
   }
   .logo {
-    flex-direction: column;
+    flex-direction: column !important;
   }
 }
