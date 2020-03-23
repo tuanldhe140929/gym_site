@@ -19,7 +19,7 @@
     flex-direction: column;
   }
   .small {
-    font-size: 25px;
+    font-size: 25px !important;
   }
 }
 @media (min-width: 1023px) {
@@ -32,7 +32,7 @@
     flex-direction: column;
   }
     .small {
-    font-size: 25px;
+    font-size: 25px !important;
   }
     .logo {
     flex-direction: column !important;
@@ -139,6 +139,9 @@ nav img {
   display: flex;
 }
 @media (max-width: 865px) {
+  .small {
+    font-size: 25px !important;
+  }
   .container-nav {
     flex-direction: column;
   }
@@ -250,6 +253,9 @@ width: 260px;
 
 
 @media (max-width: 780px) { 
+  .small {
+    font-size: 25px !important;
+  }
   .col1 p:nth-child(1){
     display: contents;
   }
@@ -316,6 +322,9 @@ button:hover{
   }
 
 @media (max-width: 840px) { 
+  .small {
+    font-size: 25px !important;
+  }
 .mid {
   flex-direction: column;
   margin: auto;
@@ -417,6 +426,9 @@ button:hover{
   padding: 1rem 0;
 }
 @media (min-width: 319px) and (max-width: 767px) {
+  .small {
+    font-size: 25px !important;
+  }
   .the-last {
     flex-direction: column;
   }
