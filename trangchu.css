@@ -1,9 +1,9 @@
 @media (min-width: 319px) and (max-width: 767px) {
 .photo1 {
-  margin: 1rem;
+  margin: 1rem !important;
 }
 .photo {
-  flex-direction: column;
+  flex-direction: column !important;
 }
 }
 @media (min-width: 1023px) {
@@ -37,10 +37,10 @@
 }
 @media (min-width:320px) and (max-width: 415px){ 
   .photo1 {
-  margin: 1rem;
+  margin: 1rem !important;
 }
 .photo {
-  flex-direction: column;
+  flex-direction: column !important;
 }
   .row {
     flex-direction: column;
@@ -72,10 +72,10 @@
 }
 @media (max-width:360px){
   .photo1 {
-  margin: 1rem;
+  margin: 1rem !important;
 }
 .photo {
-  flex-direction: column;
+  flex-direction: column !important;
 }
   .search{
     width: 100% !important;
@@ -160,10 +160,10 @@ nav img {
 }
 @media (max-width: 865px) {
   .photo1 {
-  margin: 1rem;
+  margin: 1rem !important;
 }
 .photo {
-  flex-direction: column;
+  flex-direction: column !important;
 }
   .small {
     font-size: 25px !important;
@@ -280,10 +280,10 @@ width: 260px;
 
 @media (max-width: 780px) { 
   .photo1 {
-  margin: 1rem;
+  margin: 1rem !important;
 }
 .photo {
-  flex-direction: column;
+  flex-direction: column !important;
 }
   .small {
     font-size: 25px !important;
@@ -355,10 +355,10 @@ button:hover{
 
 @media (max-width: 840px) { 
   .photo1 {
-  margin: 1rem;
+  margin: 1rem !important;
 }
 .photo {
-  flex-direction: column;
+  flex-direction: column !important;
 }
   .small {
     font-size: 25px !important;
@@ -465,10 +465,10 @@ button:hover{
 }
 @media (min-width: 319px) and (max-width: 767px) {
   .photo1 {
-  margin: 1rem;
+  margin: 1rem !important;
 }
 .photo {
-  flex-direction: column;
+  flex-direction: column !important;
 }
   .small {
     font-size: 25px !important;
