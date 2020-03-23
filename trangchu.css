@@ -1,3 +1,11 @@
+@media (min-width: 319px) and (max-width: 767px) {
+.photo1 {
+  margin: 1rem;
+}
+.photo {
+  flex-direction: column;
+}
+}
 @media (min-width: 1023px) {
   .search {
     margin: 400px 0 0 0;
@@ -439,12 +447,4 @@ button:hover{
   .logo {
     flex-direction: column !important;
   }
-}
-@media (min-width: 319px) and (max-width: 767px) {
-.photo1 {
-  margin: 1rem;
-}
-.photo {
-  flex-direction: column;
-}
 }
