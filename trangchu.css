@@ -85,7 +85,7 @@
   }
 }
 }
-.mid img {margin: 2rem;}
+.mid img:nth-child(1) {margin: 2rem;}
 h1 {
   width: 100px;
   height: 42px;
