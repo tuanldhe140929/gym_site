@@ -301,6 +301,8 @@ width: 260px;
 }
 .mid button {
   width: auto;
+  border-radius:15px;
+  margin: 20px;
   height: 44px;
   background-color: #00379c;
   border: none;
@@ -483,8 +485,4 @@ button:hover{
   .logo {
     flex-direction: column !important;
   }
-}
-button {
-  border-radius:15px;
-  margin: 20px;
 }
