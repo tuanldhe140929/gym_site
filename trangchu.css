@@ -29,6 +29,7 @@
   }
 }
 @media (min-width: 767px) and (max-width: 1022px) {
+   .carousel slide { display: none !important;}
   .navbar {
     display: none !important;
   }
