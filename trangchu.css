@@ -1,4 +1,7 @@
 @media (min-width: 319px) and (max-width: 767px) {
+  .middle {
+    display: block;
+  }
   .navbar-brand {
     padding: 0 0 0 1rem !important;
   }
