@@ -1,5 +1,4 @@
 @media (min-width: 319px) and (max-width: 767px) {
-  .prices {    padding: 0 10px 0 0!important;}
   .mid img {
   margin: 2rem .5rem .5rem .5rem !important;
   }
@@ -322,14 +321,12 @@ width: 260px;
   background-color: #00379c;
   border: none;
   color: white;
-  animation-name: twinkle-1;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
 }
 .price {
    width: 69px;
   height: 44px;
   margin: auto;
+  padding: 0 10px 0 0;
   font-family: Cabin;
   font-size: 36px;
   font-weight: bold;
