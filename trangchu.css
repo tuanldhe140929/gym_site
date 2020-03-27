@@ -1,5 +1,5 @@
 @media (min-width: 319px) and (max-width: 767px) {
-  .noigi1 { display:none !important;}
+  .the1 { display:none !important;}
   .middle {
     display: block;
   }
@@ -20,7 +20,7 @@
 }
 }
 @media (min-width: 1023px) {
-  .carousel slide { display: none !important;}
+  .the2 { display: none !important;}
   .search {
     margin: 400px 0 0 0;
   }
@@ -29,7 +29,7 @@
   }
 }
 @media (min-width: 767px) and (max-width: 1022px) {
-   .carousel slide { display: none !important;}
+   .the2 { display: none !important;}
   .navbar {
     display: none !important;
   }
