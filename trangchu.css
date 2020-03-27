@@ -348,11 +348,6 @@ width: 260px;
 }
 button:hover{
     transform: scale(1.1);
-    background: linear-gradient(
-      53deg,
-      #ccfffc,
-      #ffcccf
-    );
   }
   @keyframes twinkle-1 {
     20% {
