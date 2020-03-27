@@ -11,6 +11,9 @@
 .photo {
   flex-direction: column !important;
 }
+.get-your-high-fitnes p{
+  padding: 2rem !important;
+}
 }
 @media (min-width: 1023px) {
   .search {
@@ -436,7 +439,7 @@ button:hover{
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  color: white;
+  color: white!important;
 }
 .photo1 {
  position: relative;
