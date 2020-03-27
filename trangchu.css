@@ -1,4 +1,5 @@
 @media (min-width: 319px) and (max-width: 767px) {
+  .noigi1 { display:none !important;}
   .middle {
     display: block;
   }
@@ -19,6 +20,7 @@
 }
 }
 @media (min-width: 1023px) {
+  .carousel slide { display: none !important;}
   .search {
     margin: 400px 0 0 0;
   }
