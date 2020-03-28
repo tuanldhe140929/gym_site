@@ -20,6 +20,8 @@
 }
 }
 @media (min-width: 1023px) {
+  .the1 {display:flex;}
+  .noigi1 {width: 100%!important;margin: auto 1rem;}
   header {margin:2rem 0 0 0 !important;}
   .mid img {margin:unset!important;}
   .small { padding: 30px !important;}
@@ -36,6 +38,7 @@
   }
 }
 @media (min-width: 767px) and (max-width: 1022px) {
+  .noigi1 {width: 100%!important;margin: auto 1rem;}
    header {margin:2rem 0 0 0 !important;}
   .mid img {margin:unset!important;}
   .small { padding: 30px !important;}
