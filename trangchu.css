@@ -20,6 +20,10 @@
 }
 }
 @media (min-width: 1023px) {
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 50px;
+    height: 50px;
+  }
   .the2 { display: none !important;}
   .search {
     margin: 400px 0 0 0;
@@ -29,6 +33,10 @@
   }
 }
 @media (min-width: 767px) and (max-width: 1022px) {
+    .carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 50px;
+    height: 50px;
+    }
    .the2 { display: none !important;}
   .navbar {
     display: none !important;
