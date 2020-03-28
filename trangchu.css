@@ -20,6 +20,7 @@
 }
 }
 @media (min-width: 1023px) {
+  .mid img {margin:unset!important;}
   .small { padding: 30px !important;}
   .carousel-control-prev-icon, .carousel-control-next-icon {
     width: 50px !important;
@@ -34,6 +35,7 @@
   }
 }
 @media (min-width: 767px) and (max-width: 1022px) {
+  .mid img {margin:unset!important;}
   .small { padding: 30px !important;}
     .carousel-control-prev-icon, .carousel-control-next-icon {
     width: 50px !important;
