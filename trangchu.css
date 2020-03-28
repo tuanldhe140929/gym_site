@@ -20,6 +20,7 @@
 }
 }
 @media (min-width: 1023px) {
+  .small { padding: 30px !important;}
   .carousel-control-prev-icon, .carousel-control-next-icon {
     width: 50px !important;
     height: 50px !important;
@@ -33,6 +34,7 @@
   }
 }
 @media (min-width: 767px) and (max-width: 1022px) {
+  .small { padding: 30px !important;}
     .carousel-control-prev-icon, .carousel-control-next-icon {
     width: 50px !important;
     height: 50px !important;
