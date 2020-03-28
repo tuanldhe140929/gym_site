@@ -1,8 +1,4 @@
-@media (min-width) and (max-width: 400px) {
-  .col1 p{height: 230px!important;}
-  .col3 button {width: 180px !important;}
-  .col3 {padding:unset!important;}
-}
+
 @media (min-width: 319px) and (max-width: 767px) {
   .the1 { display:none !important;}
   .middle {
@@ -99,11 +95,14 @@
   .col1 ,.col2 ,.col3{
     width: 100% !important;
   }
-  .col1,.col2,.col3 {
+  .col1,.col2{
     text-align: center;
     margin: auto;
     padding: 1rem;
   }
+  .col1 p{height: 230px!important;}
+  .col3 button {width: 180px !important;}
+  .col3 {padding:unset!important;}
   .search {
     font-size: 5px;
     margin: auto;
