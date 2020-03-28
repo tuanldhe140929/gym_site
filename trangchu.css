@@ -1,5 +1,4 @@
 @media (min-width: 319px) and (max-width: 767px) {
-  .active img {width:100%!important;}
   .the1 { display:none !important;}
   .middle {
     display: block;
@@ -21,7 +20,6 @@
 }
 }
 @media (min-width: 1023px) {
-  .active img {margin:auto!important;width:unset!important;}
   .the1 {display:flex;}
   .noigi1 {width: 100%!important;margin: auto 1rem;}
   header {margin:2rem 0 0 0 !important;}
@@ -40,7 +38,6 @@
   }
 }
 @media (min-width: 767px) and (max-width: 1022px) {
-  .active img {margin:auto!important;width:unset!important;}
   .noigi1 {width: 100%!important;margin: auto 1rem;}
    header {margin:2rem 0 0 0 !important;}
   .mid img {margin:unset!important;}
