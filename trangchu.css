@@ -1,4 +1,5 @@
 @media (min-width: 319px) and (max-width: 767px) {
+  .active img {width:100%!important;}
   .the1 { display:none !important;}
   .middle {
     display: block;
