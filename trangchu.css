@@ -502,6 +502,7 @@ button:hover{
   }
 }
 .carousel-control-prev, .carousel-control-next {
+    align-items: unset !important;
   top: 45% !important; 
   bottom: 45%!important;
  }
